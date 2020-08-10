@@ -1,6 +1,6 @@
 ### Hi there, I'm Jan - aka [JanDragon][website] 👋
 
-## I'm a Student,Developer, and Linux Lover!
+## I'm a Student, Developer, and Linux Lover!
 - 🔭 I’m currently working on my own Hosting Company[website]!
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to help and support people
@@ -32,4 +32,3 @@
 [twitter]: https://twitter.com/JanDragon3110
 [youtube]: https://www.youtube.com/channel/UCG_vU2LLo_fxz1YNqSwrP2A
 [instagram]: https://instagram.com/JanDragon_3110
-[webdevplaylist]: https://JanDragon.com
