@@ -27,3 +27,9 @@
 <br />
 
 ---
+
+[website]: https://JanDragon.com
+[twitter]: https://twitter.com/JanDragon3110
+[youtube]: https://www.youtube.com/channel/UCG_vU2LLo_fxz1YNqSwrP2A
+[instagram]: https://instagram.com/JanDragon
+[webdevplaylist]: https://JanDragon.com
