@@ -1,7 +1,7 @@
 ### Hi there, I'm Jan - aka [JanDragon][website] 👋
 
 ## I'm a Student, Developer, and Linux Lover!
-- 🔭 I’m currently working on my own Hosting Company[website]!
+- 🔭 I’m currently working on my own Website [website]!
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to help and support people
 
